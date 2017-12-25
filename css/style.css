@@ -1,0 +1,52 @@
+
+.container{
+	width: 1170px;
+	margin: 0 auto;
+}
+.vertical-item{
+	display: inline-block;
+	vertical-align: middle;
+}
+.clear{
+	clear: both;
+}
+
+/*header*/
+.logo{
+	width: 190px;
+	float: left;
+	padding-top: 24px;	
+}
+.navigation{
+	text-transform: uppercase;
+	margin-left: 140px;
+	padding-top: 41px;
+}
+.navigation li{
+	padding: 0 15px;
+}
+.navigation li a{
+	color: #3D58A6;
+}
+.navigation li a:hover{
+	color: black;
+}
+.icon li a img{
+	height: 30px;
+}
+.icon li {
+	border-right: 2px solid #3D58A6;
+	padding: 0 15px;
+}
+.icon li:last-child{
+	border: 0;
+	padding-right: 0;
+	margin-right: 0;
+}
+.icon{
+   float: right;
+   padding-top: 31px;
+}
+
+
+/*header*/
