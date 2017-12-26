@@ -221,3 +221,104 @@
 	float: right;
 	text-align: center;
 }
+
+.newspage{
+	background-color: #BDCCD4;
+	padding-top:30px ;
+	padding-bottom: 35px;
+}
+.newspage1{
+	text-transform: uppercase;
+	font-family: "roboto";
+	font-size: 22px;
+	color: #3D58A6;
+	display: inline-block;
+}
+
+
+.isari{
+	
+	width: 23px;
+	height: 13px;
+}
+.newspage2{
+	display: inline-block;
+	font-family: "roboto";
+	font-size: 22px;
+	color: #fff;
+	text-transform: lowercase;
+	float: right;
+}
+.march{
+	width: 60px;
+	height: 60px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.lab{
+	font-family: "roboto";
+	font-size: 22px;
+	color: #363E97;
+	padding-bottom: 26px;
+	text-transform: uppercase;
+}
+.picture{
+	padding-right: 30px;
+	padding-bottom: 70px;
+	display: inline-block;
+
+}
+.statia{
+	width: 765px;
+    height: 148px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 21px;
+    line-height: 21px;
+    font-family: "roboto";
+    color: #58595B;
+	
+	
+}
+.picture img{
+	width: 370px;
+	height: 287px;
+}
+.statia2{
+	width: 765px;
+    height: 148px;
+    display: inline-block;
+    font-size: 21px;
+    line-height: 21px;
+    padding-top: 35px;
+    font-family: "roboto";
+    color: #58595B;
+}
+.statia3{
+	width: 1170px;
+    font-family: "roboto";
+    font-size: 20px;
+    padding-top: 35px;
+    color: #58595B;
+}
+
+.share{
+	background-color: #BDCCD4;
+	margin-top: 27px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+.back{
+	color: #fff;
+	font-size: 22px;
+    display: inline-block;
+}
+.share1{
+	width: 200px;
+	height: 20px;
+	display: inline-block;
+	float: right;
+}
+.share2{
+	display: inline-block;
+}
