@@ -419,10 +419,35 @@
  	margin-top: 35px;
  	margin-bottom: 20px;
  }
+ .team{
+ 	padding-bottom: 130px;
+ }
  .team1{
  	color: #EE4036;
  	font-family: "roboto";
  	font-size: 22px;
  	text-transform: uppercase;
  	padding-bottom: 45px;
+ }
+ .kacuranisi img{
+ 	width: 180px;
+ 	height: 180px;
+ 	float: left;
+ 	margin-right: 130px;
+ }
+ .kacuranisi1 img{
+ 	width: 180px;
+ 	height: 180px;
+ 	float: left;
+ 	margin-right: 130px;
+ }
+ .kacuranisi2 img{
+ 	width: 180px;
+ 	height: 180px;
+ 	float: left;
+ 	margin-right: 130px;
+ }
+ .kacuranisi3 img{
+ 	width: 180px;
+ 	height: 180px;
  }
