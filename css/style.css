@@ -98,3 +98,66 @@
 
 }
 /*video*/
+
+/*news*/
+.news1{
+	background-color: #BDCCD4;
+	padding-bottom: 90px;
+}
+.news2{
+	color: #3D58A6;
+	text-transform: uppercase;
+	font-family: "roboto";
+	font-size:24px;
+	padding: 40px 0 30px 0;
+}
+.news2 a{
+	text-transform: lowercase;
+	font-family: "roboto";
+	font-size:24px;
+	color: #3D58A6;
+}
+.news2 a:hover{
+	color: red;
+}
+.image{
+	width: 270px;
+	height: 270px;
+	float: left;
+	
+
+}
+.image2{
+	width: 270px;
+	height: 210px;
+}
+.paragrap2{
+	width: 270px;
+	height: 60px;
+	background-color: #E6E6E6;
+
+}
+.paragrap{
+	font-size: 22px;
+	font-family: "roboto";
+	color: black;
+	line-height: 60px;
+	text-align: left;
+	padding-left: 12px;
+}
+
+.imageinline{
+	display: inline-block;
+	margin-right: 26px;
+	
+}
+
+.imageinline:last-child{
+	margin-right: 0;
+	
+}
+
+
+
+
+/*news*/
