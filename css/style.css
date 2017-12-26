@@ -322,3 +322,34 @@
 .share2{
 	display: inline-block;
 }
+
+.map{
+	background-color: #E6E6E6;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.map img{
+	width: 1170px;
+	height: 460px;
+}
+ .contact1{
+ 	background-color: red;
+ }
+.contact2{
+	font-family: "roboto";
+    font-size: 22px;
+    text-transform: uppercase;
+    color: #fff;
+    padding-top:30px; 
+    padding-bottom:30px;
+}
+
+.mail1{
+	width: 1170px;
+	height: 622px;
+	margin-bottom: 0;
+
+}
+.share .container div{
+	margin-top: 0;
+}
